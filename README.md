@@ -5,6 +5,7 @@
 
 ### 👨‍💻 About Me
 
+- 🎓 Undergraduate student at **University of Westminster**, pursuing a **BSc (Hons) Computer Science** degree
 - 🔭 I’m currently working as an **Associate Software Engineer**
 - 🌱 Currently exploring **Distributed Systems, Kubernetes & Elasticsearch**
 - 👯 Looking to collaborate on **Java/Spring Boot and DevOps-related projects**
