@@ -10,7 +10,6 @@
 - 🌱 Currently exploring **Distributed Systems, Kubernetes & Elasticsearch**
 - 👯 Looking to collaborate on **Java/Spring Boot and DevOps-related projects**
 - 💬 Ask me about **Spring Boot, Docker, Redis, MySQL**
-- ⚡ Fun fact: I'm a code-optimizing coffee lover ☕🚀
 
 ---
 
