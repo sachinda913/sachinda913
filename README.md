@@ -26,22 +26,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachindaniroshan&show_icons=true&theme=radical" alt="Sachinda's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachindaniroshan&theme=radical" alt="Sachinda's GitHub streak"/>
-</p>
-
----
-
-### 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachindaniroshan&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
 ---
 
 ### 📫 Connect with Me
