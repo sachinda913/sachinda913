@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachinda Niroshan</h1>
-<h3 align="center">An enthusiastic Associate Software Engineer</h3>
+<h3 align="center">An enthusiastic Software Engineer</h3>
 
 ---
 
